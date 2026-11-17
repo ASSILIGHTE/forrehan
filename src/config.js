@@ -7,8 +7,8 @@ export const config = {
   // Informasi Pasangan & Pengirim
   partnerName: "Rehan",        // Nama pasangan yang berulang tahun
   senderName: "Rachel",         // Nama pengirim / panggilan sayang
-  birthDate: "1 Oktober 2026", // Tanggal ulang tahun
-  targetDate: "2026-10-01T00:00:00", // Target countdown (1 Oktober 2026)
+  birthDate: "22 November 2026", // Tanggal ulang tahun
+  targetDate: "2026-11-22T00:00:00", // Target countdown (1 Oktober 2026)
 
   // Audio / Musik Background
   // Gunakan URL file audio .mp3 jika ada, atau biarkan synth otomatis jika kosong/null
@@ -18,8 +18,8 @@ export const config = {
   hero: {
     badge: "Special Birthday Surprise ☁️",
     title: "Happy Birthday, Nayla",
-    subtitle: "Hari ini, langit terasa sedikit lebih indah karena merayakan senyummu.",
-    countdownTitle: "Menghitung Hari Menuju 1 Oktober 2026 ⏳",
+    subtitle: "Dulu kita pernah terbang di langit yang sama. Sekarang kita terbang di langit masing-masing, tapi kenangannya tetap sma indahnya",
+    countdownTitle: "Menghitung Hari Menuju 22 November 2026 ⏳",
     ctaButton: "Mulai Perjalanan ☁️",
   },
 
@@ -79,7 +79,7 @@ export const config = {
       {
         id: 1,
         title: "First Meet",
-        date: "",
+        date: "7 Agustus 2026",
         tagline: "Pertemuan Pertama",
         description: "Pas di sekolah, kamu ngasih aku susu milku rasa cokelat. Padahal aku tuh gasuka susu cokelat, tapi tetep aku minum sampe habis. Soalnya waktu itu kamu belum terlalu kenal aku juga. Dari hal sekecil itu aja, siapa sangka malah jadi awal dari cerita kita.",
         image: "/images/meet.jpeg",
@@ -88,7 +88,7 @@ export const config = {
       {
         id: 2,
         title: "First Photo Together",
-        date: "",
+        date: "10 Agustus 2026",
         tagline: "Foto Perdana",
         description: "Foto pertama yang kita ambil ketika di klinik, pas aku lagi ngejenguk temen aku. Disitu rasanya bener-bener canggung, malu, salting banget, apalagi kamu dateng bawain lazato haha. Siapa sangka, dari pertemuan yang sesimpel itu malah jadi awal dari cerita kita.",
         image: "/images/first.jpeg",
@@ -97,7 +97,7 @@ export const config = {
       {
         id: 3,
         title: "First Cafe",
-        date: "",
+        date: "29 Agustus 2026",
         tagline: "PERTAMA KALI NGERASAIN MALAM JADI SEHANGAT INI",
         description: "Pertama kali ke cafe bareng cowok yaitu kamu, menikmati malam yang rame, ngeliatin banyak motor dari atas sambil cerita-cerita. Padahal hal sesimpel itu, tapi buat aku rasanya udah bahagia banget, apalagi karena yang nemeninnya kamu.",
         image: "/images/adventure.jpeg",
@@ -106,7 +106,7 @@ export const config = {
       {
         id: 4,
         title: "Fresh Flowers",
-        date: "",
+        date: "22 Agustus 2026",
         tagline: "BUNGA PERTAMA YANG GAK AKAN AKU LUPAIN",
         description: "Pas aku lagi jalan sama kamu malming kala itu, terus kamu ngebeliin aku fresh flowers. Seneng banget, karena kamu juga cowok pertama yang ngebeliin aku fresh flowers. Lucu ya, hal sekecil itu aja bisa bikin aku bener-bener bahagia banget pada malem itu.",
         image: "/images/sunset.jpeg",
@@ -133,11 +133,11 @@ Aku doain kamu dari sini aja.`,
     secretLetter: {
       title: "Surat Kecil Untukmu ✉️",
       quote: "Kalau dunia ini adalah langit,\naku harap kita selalu punya tempat untuk terbang bersama.",
-      body: `Terima kasih sudah lahir ke dunia ini dan tumbuh menjadi sosok yang begitu penyayang, kuat, dan luar biasa. 
+      body: `Semoga setiap langkahmu di masa depan selalu dibimbing menuju hal-hal yang baik, dan hatimu selalu ditenangkan dalam setiap situasi. 
 
-Di usiamu yang baru ini, jangan pernah ragu untuk mengejar impianmu. Aku akan selalu ada di sini, menjadi pendukung terdepanmu, mendengarkan ceritamu saat lelah, dan merayakan setiap pencapaianmu.
+Terima kasih pernah datang ke dalam hidupku dan mengajarkanku banyak hal, baik yang membahagiakan maupun yang menguatkan hatiku.
 
-Semoga hari ini dan hari-hari mendatang membawa tersenyum lebar di wajahmu.`,
+Meski kebersamaan kita tak lagi sama, ketahuilah bahwa kebahagiaanmu tetap menjadi salah satu hal yang aku doakan. Tetaplah menjadi dirimu yang hebat, karena ada banyak hal indah yang sedang menunggumu di depan sana.`,
       closing: "With all my love,"
     }
   }
