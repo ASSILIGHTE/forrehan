@@ -132,7 +132,7 @@ Aku doain kamu dari sini aja.`,
     // Pesan Rahasia di Dalam Surat Digital
     secretLetter: {
       title: "Surat Kecil Untukmu ✉️",
-      quote: "Kalau dunia ini adalah langit,\naku harap kita selalu punya tempat untuk terbang bersama.",
+      quote: "Dulu kita pernah terbang di langit yang sama. Sekarang kita terbang di langit masing-masing, tapi kenangannya tetap sma indahnya.",
       body: `Semoga setiap langkahmu di masa depan selalu dibimbing menuju hal-hal yang baik, dan hatimu selalu ditenangkan dalam setiap situasi. 
 
 Terima kasih pernah datang ke dalam hidupku dan mengajarkanku banyak hal, baik yang membahagiakan maupun yang menguatkan hatiku.
