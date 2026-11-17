@@ -18,7 +18,7 @@ export const config = {
   hero: {
     badge: "Special Birthday Surprise ☁️",
     title: "Happy Birthday, Nayla",
-    subtitle: "Dulu kita pernah terbang di langit yang sama. Sekarang kita terbang di langit masing-masing, tapi kenangannya tetap sma indahnya",
+    subtitle: "Hari ini ada satu cerita lama yang ikut aku rayakan. Selamat bertambah umur ya, semoga harimu sehangat kenangan yang pernah kita punya.",
     countdownTitle: "Menghitung Hari Menuju 22 November 2026 ⏳",
     ctaButton: "Mulai Perjalanan ☁️",
   },
